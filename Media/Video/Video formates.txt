@@ -1,0 +1,7 @@
+| Format         | Description                                   |
+| -------------- | --------------------------------------------- |
+| **MP4 (.mp4)** | Most common, supports video, audio, subtitles |
+| **AVI (.avi)** | Older, large file sizes                       |
+| **MKV (.mkv)** | Supports multiple audio and subtitle tracks   |
+| **MOV (.mov)** | Apple format, high-quality                    |
+| **WMV (.wmv)** | Windows Media Video format                    |

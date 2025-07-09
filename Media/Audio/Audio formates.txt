@@ -1,0 +1,7 @@
+| Format           | Description                     |
+| ---------------- | ------------------------------- |
+| **MP3 (.mp3)**   | Most common, lossy compression  |
+| **WAV (.wav)**   | Uncompressed, high-quality      |
+| **AAC (.aac)**   | Better than MP3 at same bitrate |
+| **FLAC (.flac)** | Lossless compression            |
+| **OGG (.ogg)**   | Open-source alternative to MP3  |

@@ -1,0 +1,8 @@
+| Format              | Description                           |
+| ------------------- | ------------------------------------- |
+| **JPEG/JPG (.jpg)** | Common for photos, lossy compression  |
+| **PNG (.png)**      | Supports transparency, lossless       |
+| **GIF (.gif)**      | Supports animation, limited colors    |
+| **BMP (.bmp)**      | Uncompressed, large size              |
+| **TIFF (.tiff)**    | High-quality images, used in printing |
+| **WEBP (.webp)**    | Modern format, good compression       |

@@ -1,0 +1,7 @@
+| Format                    | Description                       |
+| ------------------------- | --------------------------------- |
+| **PDF (.pdf)**            | Preserves formatting, widely used |
+| **DOC/DOCX (.doc/.docx)** | Microsoft Word                    |
+| **TXT (.txt)**            | Plain text                        |
+| **ODT (.odt)**            | OpenDocument Text                 |
+| **RTF (.rtf)**            | Rich Text Format                  |
